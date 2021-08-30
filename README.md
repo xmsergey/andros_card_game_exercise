@@ -1,7 +1,7 @@
 # Andros Card Game Exercise
 
 ## Start Instructions
-1. Clone the repo `git clone https://github.com/github.com/xmsergey/andros_card_game_exercise.git`.
+1. Clone the repo `git clone https://github.com/xmsergey/andros_card_game_exercise.git`.
 2. Switch to new folder `cd andros_card_game_exercise`.
 3. Run game `ruby game_manager.rb 2>errors.log`
    
